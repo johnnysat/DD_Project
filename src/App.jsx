@@ -9,7 +9,6 @@ function App() {
           <li>Home</li>
           <li>Classes</li>
           <li>Raças</li>
-          <li>Lista de Magia</li>
         </ul>
       </div>
     </>
