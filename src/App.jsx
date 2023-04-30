@@ -1,4 +1,5 @@
 import reactLogo from './assets/react.svg'
+import Classes from './components/classes'
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
           <li>Classes</li>
           <li>Raças</li>
         </ul>
+        <Classes />
       </div>
     </>
   )
