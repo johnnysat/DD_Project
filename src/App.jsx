@@ -1,5 +1,6 @@
 import reactLogo from './assets/react.svg'
 import Classes from './components/classes'
+import './App.css';
 
 function App() {
 
